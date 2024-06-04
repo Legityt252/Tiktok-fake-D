@@ -1,0 +1,119 @@
+> TV ON PLAY 🔌📺:
+CODIGO 576992800
+IP/URL: 178.162.225.116:2082
+Usuário: LIST-MIGIRATION-WeVJv8BuTS
+Senha: gcasT2b4dN
+Validade: 16/08/2032
+Lista M3U: http://178.162.225.116:2082/get.php?username=LIST-MIGIRATION-WeVJv8BuTS&password=gcasT2b4dN&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 891886109
+IP/URL: 212.95.55.222:2095
+Usuário: Xplus-1-q473KmdS0Q
+Senha: zku7nroIJS
+Validade: 05/04/2032
+Lista M3U: http://212.95.55.222:2095/get.php?username=Xplus-1-q473KmdS0Q&password=zku7nroIJS&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 677506413
+IP/URL: 212.95.55.222:2095
+Usuário: Xplus-1-XjiuCAMADn
+Senha: PXVqx2gQc1
+Validade: 16/08/2032
+Lista M3U: http://212.95.55.222:2095/get.php?username=Xplus-1-XjiuCAMADn&password=PXVqx2gQc1&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 488291304
+IP/URL: 212.95.55.222:2095
+Usuário: Xplus-1-rXzt0bVN3k
+Senha: vGGJqdFwWy
+Validade: 23/07/2032
+Lista M3U: http://212.95.55.222:2095/get.php?username=Xplus-1-rXzt0bVN3k&password=vGGJqdFwWy&type=m3u_plus&output=ts
+
+CODIGO trourobox 1  
+CODIGO 135337825
+IP/URL: 178.162.225.117:2095
+UsuÃ¡rio: Tourobox1-SCG4SgfJHJ
+Senha: c4JeziPbH0
+Validade: 09/04/2034
+Lista M3U: http://178.162.225.117:2095/get.php?username=Tourobox1-SCG4SgfJHJ&password=c4JeziPbH0&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 725916189
+IP/URL: 212.95.55.222:2095
+Usuário: Xplus-1-CZEA38qgCc
+Senha: oKlAGisVLG
+Validade: 02/02/2032
+Lista M3U: http://212.95.55.222:2095/get.php?username=Xplus-1-CZEA38qgCc&password=oKlAGisVLG&type=m3u_plus&output=ts
+
+CODIGO trourobox 1  
+CODIGO 135388746
+IP/URL: 178.162.225.117:2095
+UsuÃ¡rio: Tourobox1-8zYzrrbgX9
+Senha: yEQjo3ZpUL
+Validade: 18/03/2034
+Lista M3U: http://178.162.225.117:2095/get.php?username=Tourobox1-8zYzrrbgX9&password=yEQjo3ZpUL&type=m3u_plus&output=ts
+
+CODIGO trourobox 1  
+CODIGO 135555019
+IP/URL: 178.162.225.182:2095
+UsuÃ¡rio: suspected-TR1-jabA4txPyx
+Senha: JMHcnoaJAc
+Validade: 07/09/2033
+Lista M3U: http://178.162.225.182:2095/get.php?username=suspected-TR1-jabA4txPyx&password=JMHcnoaJAc&type=m3u_plus&output=ts
+
+CODIGO trourobox 1  
+CODIGO 726026477
+IP/URL: 178.162.225.117:2095
+Usuário: Tourobox1-M76DVTCjZ5
+Senha: DPeJcWAK9X
+Validade: 09/04/2034
+Lista M3U: http://178.162.225.117:2095/get.php?username=Tourobox1-M76DVTCjZ5&password=DPeJcWAK9X&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 898644280
+IP/URL: 178.162.225.116:2082
+Usuário: LIST-MIGIRATION-hJIQYgUF2L
+Senha: 5lJUe5E7L1
+Validade: 08/08/2032
+Lista M3U: http://178.162.225.116:2082/get.php?username=LIST-MIGIRATION-hJIQYgUF2L&password=5lJUe5E7L1&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 858644517
+IP/URL: 212.95.55.222:2095
+Usuário: Xplus-1-n8cGHFot8H
+Senha: B7I8YC9npX
+Validade: 25/06/2032
+Lista M3U: http://212.95.55.222:2095/get.php?username=Xplus-1-n8cGHFot8H&password=B7I8YC9npX&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 668718157
+IP/URL: 212.95.55.222:2095
+Usuário: Xplus-1-PvTx245cEO
+Senha: ERJxNiGCY3
+Validade: 18/12/2031
+Lista M3U: http://212.95.55.222:2095/get.php?username=Xplus-1-PvTx245cEO&password=ERJxNiGCY3&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 567184836
+IP/URL: 212.95.55.222:2095
+Usuário: Xplus-1-NN1rUlTl2D
+Senha: uzs5veVdTu
+Validade: 26/12/2031
+Lista M3U: http://212.95.55.222:2095/get.php?username=Xplus-1-NN1rUlTl2D&password=uzs5veVdTu&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 728073930
+IP/URL: 212.95.55.222:2095
+Usuário: Xplus-1-WMVAkE60QH
+Senha: vvlznqqsxL
+Validade: 16/08/2032
+Lista M3U: http://212.95.55.222:2095/get.php?username=Xplus-1-WMVAkE60QH&password=vvlznqqsxL&type=m3u_plus&output=ts
+
+CODIGO xplus 6.0.3  
+CODIGO 387303267
+IP/URL: 178.162.225.116:2082
+Usuário: LIST-MIGIRATION-gKxKx8rMj8
+Senha: XEfE3lQoGE
+Validade: 16/08/2032
+Lista M3U: http://178.162.225.116:2082/get.php?username=LIST-MIGIRATION-gKxKx8rMj8&password=XEfE3lQoGE&type=m3u_plus&output=ts
